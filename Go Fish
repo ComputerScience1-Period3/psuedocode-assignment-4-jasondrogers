@@ -6,13 +6,10 @@ Period 3
 
 
 1. 	
-	If: 	
-		there are three to six people present
-	Then:
+	If there are three to six people present:
 		give everyone 5 cards.		
-Else:
-
-	Give the 2 players 7 cards.
+	Else:
+		Give the 2 players 7 cards.
 
 
 2. All remaining cards are placed face down in a pile.
@@ -28,18 +25,12 @@ You must already hold at least one card of the rank you ask for.
 
 
 5. 	
-	If:
- 		the player you ask has any cards of the requested rank.
-
-	Then:   
+	If the player you ask has any cards of the requested rank:
 		she must give all of her cards of that rank to you.
 
 
 6. 
-	If: 		
-		you get one or more cards from the player you ask.
-
-	Then:
+	If you get one or more cards from the player you ask:
 		you get another turn.
 
 
@@ -47,16 +38,14 @@ You must already hold at least one card of the rank you ask for.
 	It starts again and you may ask any player for any rank you already hold, including the same one you just asked for. 
   
 
-	If: 
-		the person you ask has no relevant cards.
-	Then:
+	If the person you ask has no relevant cards:
 		they say, "Go fish."
 
 
 8. You then draw the top card from the draw pile. You add the drawn card to your hand.
 
-
-
+9. If you hold all cards of the same rank:
+	Place them in a separate pile from your hand.
 
 
 10. Go Fish continues until either someone has no cards left in their hand or the draw pile runs out.
