@@ -4,63 +4,48 @@ Jason Rogers
 Period 3
 10/18/17
 
-
+Requirements:
+   Deck consisting of 52 playing cards, 2 or more players
+   
 1. 	
-	If: 	
+	If;
 		there are three to six people present
 	Then:
-		give everyone 5 cards.		
+		all participants recieve 5 cards.		
 Else:
-
 	Give the 2 players 7 cards.
-
 
 2. All remaining cards are placed face down in a pile.
 
-
 3. First, choose a player to go first.
-
 
 4. On each person's turn, ask any player for a specific card rank.  
 
-
-You must already hold at least one card of the rank you ask for.
-
+The player making the request must already hold at least one card of the rank they ask for.
 
 5. 	
-	If:
- 		the player you ask has any cards of the requested rank.
-
+	If;
+ 		the person the player asked has any cards of the requested rank.
 	Then:   
-		she must give all of her cards of that rank to you.
-
+		(s)he must give all of their cards of that rank to the player who made the request.
 
 6. 
-	If: 		
-		you get one or more cards from the player you ask.
-
+	If; 		
+		a player recives one or more cards from the player they asked.
 	Then:
-		you get another turn.
-
+		said player gets another turn.
 
 7. 
-	It starts again and you may ask any player for any rank you already hold, including the same one you just asked for. 
-  
+	It starts again and the player whos turn passed may ask any player for any rank that they hold, including the same one they just asked for. 
 
-	If: 
-		the person you ask has no relevant cards.
+	If; 
+		the person the player asks has no relevant cards.
 	Then:
 		they say, "Go fish."
 
+8. They then draw the top card from the draw pile. They add the drawn card to their hand.
 
-8. You then draw the top card from the draw pile. You add the drawn card to your hand.
-
-
-
-
-
-10. Go Fish continues until either someone has no cards left in their hand or the draw pile runs out.
-
+10. The game continues until either someone has no cards left in their hand or the draw pile runs out.
 
 11. The winner is the player who then has the most matches (sets of four).
 
